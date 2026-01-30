@@ -2,12 +2,13 @@
   "name": "focusit",
   "displayName": "FocusIt",
   "description": "Keep your editing line always centered with configurable focus range",
-  "version": "0.0.1",
+  "version": "1.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/IAMLEIzZ/FocusIt"
   },
-  "publisher": "Xiaoshidui",
+  "publisher": "IAMLEIzZ",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.74.0"
   },
